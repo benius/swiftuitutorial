@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BD7C0186269003B200876DBF /* AnimationExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7C0185269003B200876DBF /* AnimationExercise.swift */; };
+		BD7C0186269003B200876DBF /* AnimationExercise01.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7C0185269003B200876DBF /* AnimationExercise01.swift */; };
+		BD7C018826905A8900876DBF /* AnimationExercise02.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7C018726905A8900876DBF /* AnimationExercise02.swift */; };
 		BD831CFE266C5B5700A2F830 /* SwiftUITutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD831CFD266C5B5700A2F830 /* SwiftUITutorialApp.swift */; };
 		BD831D00266C5B5700A2F830 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD831CFF266C5B5700A2F830 /* ContentView.swift */; };
 		BD831D02266C5B5900A2F830 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD831D01266C5B5900A2F830 /* Assets.xcassets */; };
@@ -29,7 +30,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BD7C0185269003B200876DBF /* AnimationExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExercise.swift; sourceTree = "<group>"; };
+		BD7C0185269003B200876DBF /* AnimationExercise01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExercise01.swift; sourceTree = "<group>"; };
+		BD7C018726905A8900876DBF /* AnimationExercise02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExercise02.swift; sourceTree = "<group>"; };
 		BD831CFA266C5B5700A2F830 /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD831CFD266C5B5700A2F830 /* SwiftUITutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialApp.swift; sourceTree = "<group>"; };
 		BD831CFF266C5B5700A2F830 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,7 +103,8 @@
 				BDA2E29426749FCC0059DA1C /* StateBindingView.swift */,
 				BDA2E2962674A27E0059DA1C /* StateBindingExerciseView.swift */,
 				BDA2E2982676E9A10059DA1C /* ShapeView.swift */,
-				BD7C0185269003B200876DBF /* AnimationExercise.swift */,
+				BD7C0185269003B200876DBF /* AnimationExercise01.swift */,
+				BD7C018726905A8900876DBF /* AnimationExercise02.swift */,
 			);
 			path = SwiftUITutorial;
 			sourceTree = "<group>";
@@ -183,7 +186,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD7C0186269003B200876DBF /* AnimationExercise.swift in Sources */,
+				BD7C0186269003B200876DBF /* AnimationExercise01.swift in Sources */,
 				BD831D1B266C75DC00A2F830 /* CardView.swift in Sources */,
 				BDA2E2972674A27E0059DA1C /* StateBindingExerciseView.swift in Sources */,
 				BD831D18266C624200A2F830 /* ImageView.swift in Sources */,
@@ -197,6 +200,7 @@
 				BDA2E29526749FCC0059DA1C /* StateBindingView.swift in Sources */,
 				BD831D1D266C7B4D00A2F830 /* VerticalScrollView.swift in Sources */,
 				BD831D00266C5B5700A2F830 /* ContentView.swift in Sources */,
+				BD7C018826905A8900876DBF /* AnimationExercise02.swift in Sources */,
 				BD831D1F266C7E5800A2F830 /* HorizontalScrollView.swift in Sources */,
 				BDA2E28F267459820059DA1C /* ButtonExerciseView.swift in Sources */,
 				BD831CFE266C5B5700A2F830 /* SwiftUITutorialApp.swift in Sources */,

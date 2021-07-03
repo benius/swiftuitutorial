@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct AnimationExercise: View {
+struct AnimationExercise01: View {
     @State private var submitted = false
     @State private var processing = false
     @State private var done = false
@@ -88,6 +88,6 @@ struct AnimationExercise: View {
 
 struct AnimationExercise_Previews: PreviewProvider {
     static var previews: some View {
-        AnimationExercise()
+        AnimationExercise01()
     }
 }
