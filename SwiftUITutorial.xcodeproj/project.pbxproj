@@ -21,6 +21,8 @@
 		BD831D1D266C7B4D00A2F830 /* VerticalScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD831D1C266C7B4D00A2F830 /* VerticalScrollView.swift */; };
 		BD831D1F266C7E5800A2F830 /* HorizontalScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD831D1E266C7E5800A2F830 /* HorizontalScrollView.swift */; };
 		BD831D21266CAA5C00A2F830 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD831D20266CAA5C00A2F830 /* ButtonView.swift */; };
+		BD87CDEC26914F2C00159EFB /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD87CDEB26914F2C00159EFB /* ListView.swift */; };
+		BD87CDEE2691937200159EFB /* ListExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD87CDED2691937200159EFB /* ListExercise.swift */; };
 		BDA2E28F267459820059DA1C /* ButtonExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA2E28E267459820059DA1C /* ButtonExerciseView.swift */; };
 		BDA2E2912674655E0059DA1C /* StateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA2E2902674655E0059DA1C /* StateView.swift */; };
 		BDA2E29326746AE70059DA1C /* StateExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA2E29226746AE70059DA1C /* StateExerciseView.swift */; };
@@ -46,6 +48,8 @@
 		BD831D1C266C7B4D00A2F830 /* VerticalScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalScrollView.swift; sourceTree = "<group>"; };
 		BD831D1E266C7E5800A2F830 /* HorizontalScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalScrollView.swift; sourceTree = "<group>"; };
 		BD831D20266CAA5C00A2F830 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		BD87CDEB26914F2C00159EFB /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		BD87CDED2691937200159EFB /* ListExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExercise.swift; sourceTree = "<group>"; };
 		BDA2E28E267459820059DA1C /* ButtonExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExerciseView.swift; sourceTree = "<group>"; };
 		BDA2E2902674655E0059DA1C /* StateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateView.swift; sourceTree = "<group>"; };
 		BDA2E29226746AE70059DA1C /* StateExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateExerciseView.swift; sourceTree = "<group>"; };
@@ -105,6 +109,8 @@
 				BDA2E2982676E9A10059DA1C /* ShapeView.swift */,
 				BD7C0185269003B200876DBF /* AnimationExercise01.swift */,
 				BD7C018726905A8900876DBF /* AnimationExercise02.swift */,
+				BD87CDEB26914F2C00159EFB /* ListView.swift */,
+				BD87CDED2691937200159EFB /* ListExercise.swift */,
 			);
 			path = SwiftUITutorial;
 			sourceTree = "<group>";
@@ -187,9 +193,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD7C0186269003B200876DBF /* AnimationExercise01.swift in Sources */,
+				BD87CDEC26914F2C00159EFB /* ListView.swift in Sources */,
 				BD831D1B266C75DC00A2F830 /* CardView.swift in Sources */,
 				BDA2E2972674A27E0059DA1C /* StateBindingExerciseView.swift in Sources */,
 				BD831D18266C624200A2F830 /* ImageView.swift in Sources */,
+				BD87CDEE2691937200159EFB /* ListExercise.swift in Sources */,
 				BD831D21266CAA5C00A2F830 /* ButtonView.swift in Sources */,
 				BD831D13266C5E1400A2F830 /* StackExerciseView.swift in Sources */,
 				BDA2E29326746AE70059DA1C /* StateExerciseView.swift in Sources */,
